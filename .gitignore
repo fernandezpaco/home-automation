@@ -1,0 +1,17 @@
+.DS_Store
+.sass-cache/
+.tmp
+.idea
+app/composerMocks/
+app/locales
+app/index.html
+app/scripts/app-config.js
+app/scripts/app-dist.js
+app/scripts/cordovaMocks.js
+app/styles/*.css
+components/
+dist
+node_modules
+npm-debug.log
+test/bower_components/
+test/temp
